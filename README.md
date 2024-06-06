@@ -1,6 +1,1 @@
-This project consists of implementing two algorithms in C. The first is a map generation algorithm and the second an algorithm capable of finding the shortest path to exit this map.
-
-You must have 2 folders : solver with a binary named “solver” in it, generator with binary named “generator”
-in it.
-
-It was produced in collaboration with @heritier.daga who took care of generating the map.
+Tap in your terminal make -C generator/ and make -C solver/ to genarate the binary file for genarator and solver. After do "./genarator" to generate the map and after that "./solver" to use the solver binary file to find the shortest path in the map
